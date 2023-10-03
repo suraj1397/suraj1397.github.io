@@ -1,2 +1,9 @@
 # suraj1397.github.io
-On this page, we provide a brief introduction to the concept of Differentiable Optimization.
+Team Members :
+Sara Honarvar
+Suraj Raval
+
+CMSC818B : Mini-Project 1
+
+Topic : On the overview of theory and implementation of differentiable optimization tools in robotics
+
