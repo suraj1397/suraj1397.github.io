@@ -1,6 +1,6 @@
 # suraj1397.github.io
 Team Members :
-Sara Honarvar
+Sara Honarvar,
 Suraj Raval
 
 CMSC818B : Mini-Project 1
